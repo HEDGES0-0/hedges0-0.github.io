@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chen's homepage"
 description              : ""
-repository               : "HEDGES0-0/chenwei.github.io 
+repository               : "HEDGES0-0/chenwei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chen Wei"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Chen_Wei.jpeg"
   bio              : "University of Birmingham"
   location         : "Birmingham, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9-MdqPkAAAAJ&hl"
   email            : "chen.wei.hdg@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chen-Wei-69" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "HEDGES0-0" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/181/2831-6.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0000-0003-2999-2771" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -64,6 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets/files
 exclude:
   - docs
   - google_scholar_crawler
