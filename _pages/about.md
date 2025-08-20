@@ -24,8 +24,8 @@ I am currently seeking postdoctoral or related research positions. If you are in
 📄 **[Download my CV (PDF)]({{ site.baseurl }}/assets/files/CV_ChenWei.pdf)**
 
 I graduated from Southwestern University of Finance and Economics with a bachelor's degree in Finance, and I am currently pursuing a joint **Ph.D. in Psychology** at **University of Birmingham** and **Southern University of Science and Technology (SUSTech)**, co-advised by Prof. Dietmar Heinke and Prof. Quanying Liu. 
-I have published over **15 first-/corresponding-author papers** in top-tier conferences and journals, such as *NeurIPS, ICML, IJCAI, ACMMM, CogSci, The Innovation*, and *iScience*, with over **490 citations** and an **H-index of 8**.
-I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, and *CogSci* and serve as a guest editor for *Tsinghua Science and Technology* on a special issue on foundation models in brain science.
+I have published over **15 first-/corresponding-author papers** in top-tier conferences and journals, such as *NeurIPS, ICML, IJCAI, ACMMM, CogSci, The Innovation* and *iScience*, with over **490 citations** and an **H-index of 8**.
+I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *CogSci* and serve as a guest editor for *Tsinghua Science and Technology* on a special issue on foundation models in brain science.
 
 <!-- ---
 
