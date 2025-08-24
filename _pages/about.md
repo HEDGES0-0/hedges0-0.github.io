@@ -67,15 +67,6 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
 - Haotian Deng\*, Chi Zhang\*, **Chen Wei$^{\dagger}$**, Quanying Liu$^{\dagger}$.  
   _Synthesizing Images on Perceptual Boundaries o ANNs for Uncovering Human Perceptual Variability on Facial Expressions_, **IJCNN**, 2025  
 
-### 🤖 AI for Psychology
-
-- **Chen Wei**, Jiachen Zou, Chi Zhang, Jia Liu, Haiyan Wu, Quanying Liu.  
-  _AI-Driven Novel Paradigms for Psychological Research_, Under Review at **Advances in Psychological Science**, 2025  
-- Youzhi Qu, Penghui Du, Wenxin Che, **Chen Wei**, Quanying Liu, et al.  
-  _Promoting interactions between cognitive science and large language models_, **The Innovation**, 2024  
-- Youzhi Qu\*, **Chen Wei\***, Quanying Liu, et al.  
-  _Integration of cognitive tasks into artificial general intelligence test for large models_, **iScience**, 2024
-
 ### 👁️ Neural Visual Decoding & Closed-Loop Control
 
 - Dongyang Li, Kunpeng Xie, Mingyang Wu, Yiwei Kong, Jiahua Tang, Haoyang Qin, **Chen Wei$^{\dagger}$**, Quanying Liu.  
@@ -88,6 +79,15 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
   _Uncovering the EEG Temporal Representation of Low-dimensional Object Properties_, **IJCNN**, 2025
 - Dongyang Li\*, **Chen Wei\***, Shiying Li, Jiachen Zou, Quanying Liu.  
   _Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion_, **NeurIPS**, 2024  
+
+### 🤖 AI for Psychology
+
+- **Chen Wei**, Jiachen Zou, Chi Zhang, Jia Liu, Haiyan Wu, Quanying Liu.  
+  _AI-Driven Novel Paradigms for Psychological Research_, Under Review at **Advances in Psychological Science**, 2025  
+- Youzhi Qu, Penghui Du, Wenxin Che, **Chen Wei**, Quanying Liu, et al.  
+  _Promoting interactions between cognitive science and large language models_, **The Innovation**, 2024  
+- Youzhi Qu\*, **Chen Wei\***, Quanying Liu, et al.  
+  _Integration of cognitive tasks into artificial general intelligence test for large models_, **iScience**, 2024
 
 ### 📈 EEG Signal Processing & Inverse Problem
 
