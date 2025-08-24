@@ -182,7 +182,7 @@ I serve as a reviewer for leading venues like *NeurIPS, ICLR, ICML, AISTATS*, *C
 
 ## 🌟 Other Experience
 
-- *2018*: Translator of Chinese edition of *Computational Modeling of Cognition and Behavior* (Farrell & Lewandowsky, Cambridge University Press, 2018)
+- *2019*: Translator of Chinese edition of *Computational Modeling of Cognition and Behavior* (Farrell & Lewandowsky, Cambridge University Press, 2018)
 - *2024.07*: Initiator & Lecturer: Delivered 8 youth-focused AI science lectures, Shenzhen Science Museum (July 2024), 3,000+ audience
 
 ---
