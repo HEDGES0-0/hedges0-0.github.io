@@ -1,5 +1,8 @@
 <script>
     $(document).ready(function () {
+        var totalCitationElement = document.getElementById('total_cit');
+        var citationElements = document.getElementsByClassName('show_paper_citations');
+        if (!totalCitationElement && !citationElements.length) return;
         {% if site.google_scholar_stats_use_cdn %}
         var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
         {% else %}
@@ -7,11 +10,13 @@
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
+            if (totalCitationElement && totalCitation != null) totalCitationElement.textContent = totalCitation;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
+                var publication = (data['publications'] || {})[paperId];
+                if (!publication) return;
+                var numCitations = publication['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
         });
