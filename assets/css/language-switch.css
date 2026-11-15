@@ -7,3 +7,6 @@
 .site-language a:hover { color:#224b8d; }
 .site-language span { color:#c1c5c8; }
 @media(max-width:600px) { .masthead__menu { gap:12px; } .site-language { font-size:13px; gap:7px; } }
+
+.publication-link { white-space:nowrap; }
+.page__content h2 { scroll-margin-top:5rem; }
