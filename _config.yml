@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hi, this is Chen!"
-description              : ""
+description              : "Chen Wei — brain–computer interface foundation models, generative AI, and cognitive science."
 repository               : "HEDGES0-0/hedges0-0.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Wei"
   avatar           : "images/Chen_Wei.jpeg"
-  bio              : "University of Birmingham"
-  location         : "Birmingham, UK"
+  bio              : "Founder & CEO, Omni-intelligence"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9-MdqPkAAAAJ&hl"
-  email            : "chen.wei.hdg@gmail.com"
+  email            : "chen.wei@omni-intel.cn"
   researchgate     : "https://www.researchgate.net/profile/Chen-Wei-69" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
