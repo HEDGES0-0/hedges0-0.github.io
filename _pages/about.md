@@ -132,7 +132,7 @@ redirect_from:
 <p>Aug 2024 CoCoG-2: Controllable generation of visual stimuli for understanding human concept representation. IJCAI Workshop on Human Brain and Artificial Intelligence</p>
 <p>Jun 2024 Using Visual Generation Models to Enhance Psychological Experimental Design. AI4Psych Seminar</p>
 <p>May 2024 Controllable Visual Stimuli Generation Based on Human Concept Representations. Tsinghua University (Invited by: Dan Zhang)</p>
-<p>May 2021 Edge Sparse Basis Network.IJCNN</p>
+<p>May 2021 Edge Sparse Basis Network. IJCNN</p>
 <hr>
 <h2 id="awards">🎖 Awards</h2>
 <p>2024 IOP Top Cited Paper Award</p>
