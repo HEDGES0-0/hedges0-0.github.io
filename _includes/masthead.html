@@ -11,6 +11,11 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <nav class="site-language" aria-label="{% if page.lang == 'zh-CN' %}网站语言{% else %}Website language{% endif %}">
+        <a href="{{ '/' | relative_url }}" lang="en" hreflang="en"{% unless page.lang == 'zh-CN' %} aria-current="page"{% endunless %}>EN</a>
+        <span aria-hidden="true">/</span>
+        <a href="{{ '/zh/' | relative_url }}" lang="zh-CN" hreflang="zh-CN"{% if page.lang == 'zh-CN' %} aria-current="page"{% endif %}>中文</a>
+      </nav>
     </div>
   </div>
 </div>

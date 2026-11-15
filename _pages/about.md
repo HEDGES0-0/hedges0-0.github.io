@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <p>Chen Wei is the founder and CEO of Omni-intelligence. He earned his Ph.D. through the joint doctoral program of the University of Birmingham and Southern University of Science and Technology. His research focuses on brain-computer interface foundation models, multimodal alignment of neural signals with vision and language, and generative models for closed-loop human-AI interaction.</p>
 <p>His work has appeared in Nature Biomedical Engineering, NeurIPS, ICML, ICLR, IJCAI and ACM MM, including 18 first- or corresponding-author papers, with over 1,000 Google Scholar citations. He serves as an Area Chair for ICLR and ICML and as a guest editor for the Foundation Models for Brain Science special issue of Tsinghua Science and Technology. He contributed to the book Human Brain Intelligence and Artificial Intelligence.</p>
-<p>📄 <strong><a href="/assets/files/CV_ChenWei.pdf">Download my CV (PDF)</a></strong> | <strong><a href="/assets/files/CV_魏晨.pdf">下载中文简历 (PDF)</a></strong> · <a href="/">English</a> / <a href="/zh/">中文</a></p><hr>
+<p>📄 <strong><a href="/assets/files/CV_ChenWei.pdf">Download my CV (PDF)</a></strong> | <strong><a href="/assets/files/CV_魏晨.pdf">下载中文简历 (PDF)</a></strong></p><hr>
 <h2 id="work">💼 Work Experience</h2>
 <h3>2025–present | Founder and CEO | Shenzhen Omni-intelligence Co., Ltd.</h3>
 <p>Model development: led the team in data collection, training, evaluation and deployment to build the largest EEG foundation model to date.</p>

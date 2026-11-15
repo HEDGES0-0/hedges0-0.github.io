@@ -8,7 +8,7 @@ author_profile: true
 <span class='anchor' id='about-me'></span>
 <p>魏晨，博士，全域智能创始人、CEO，毕业于英国伯明翰大学与南方科技大学联合培养博士项目。研究聚焦脑机接口基础模型、神经信号与视觉／语言的多模态表征对齐，以及生成模型驱动的闭环人机交互。</p>
 <p>在 Nature Biomedical Engineering、NeurIPS、ICML、ICLR、IJCAI、ACM MM 等顶级期刊与会议发表论文，其中以一作或通讯作者发表 18 篇，Google Scholar 总引用超过 1,000 次。担任 ICLR、ICML 领域主席（Area Chair），以及《Tsinghua Science and Technology》脑科学基础模型专题客座编辑，参与编著《人脑智能与人工智能》。</p>
-<p>📄 <strong><a href="/assets/files/CV_ChenWei.pdf">Download my CV (PDF)</a></strong> | <strong><a href="/assets/files/CV_魏晨.pdf">下载中文简历 (PDF)</a></strong> · <a href="/">English</a> / <a href="/zh/">中文</a></p><hr>
+<p>📄 <strong><a href="/assets/files/CV_ChenWei.pdf">Download my CV (PDF)</a></strong> | <strong><a href="/assets/files/CV_魏晨.pdf">下载中文简历 (PDF)</a></strong></p><hr>
 <h2 id="work">💼 工作经历</h2>
 <h3>2025–至今 | 创始人、CEO | 深圳全域智能科技有限公司</h3>
 <p>模型研发：组织团队完成脑电基座模型的数据采集、训练、评测与部署，构建目前最大的脑电基座模型。</p>
